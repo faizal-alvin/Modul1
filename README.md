@@ -1,8 +1,8 @@
-####Helo, I am Faizal
-#####Moh Faizal Alvin
-#####230605110112
-#####Praktikum Pemrogaman Mobile
-#####Kelas B
+#### Helo, I am Faizal
+##### Moh Faizal Alvin
+##### 230605110112
+##### Praktikum Pemrogaman Mobile
+##### Kelas B
 
 Saya Sedang Belajar Pemrogaman Mobile:
 
